@@ -6,6 +6,10 @@ Bookish is the ultimate online platform for avid readers to connect and engage i
 
 ## Screencaps of the landing page
 
+!(./images/Screenshot_2024-07-23_02-17-04.jpg)
+!(./images/Screenshot_2024-07-23_02-17-29.jpg)
+!(./images/Screenshot_2024-07-23_02-17-42.jpg)
+!(./images/Screenshot_2024-07-23_02-17-55.jpg)
 
 
 
