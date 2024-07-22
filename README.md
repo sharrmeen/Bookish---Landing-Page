@@ -13,7 +13,7 @@ Bookish is the ultimate online platform for avid readers to connect and engage i
 
 
 
-Following are the credits for the open-source images used in this project: 
+## Following are the credits for the open-source images used in this project: 
 
 Logo Image by <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2026675">OpenClipart-Vectors</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2026675">Pixabay</a>
 
