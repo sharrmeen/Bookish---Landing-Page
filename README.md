@@ -2,6 +2,8 @@
 This project implements the landing page for a website based on a pre-defined design. The goal is to replicate the structure while also adding design changes.
 ## About Bookish
 
+Bookish is the ultimate online platform for avid readers to connect and engage in a variety of literary activities. Whether you're looking to join or host book club meetings, participate in virtual reading sessions, exchange books with fellow readers, or showcase your literary talents at open mic events, Bookish provides a vibrant community where you can enhance your reading experience. Dive into author Q&As, writing workshops, and themed reading challenges, all while making lasting connections with like-minded individuals who share your passion for books.
+
 
 
 Following are the credits for the open-source images used in this project: 
