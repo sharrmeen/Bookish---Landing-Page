@@ -21,9 +21,10 @@ body{
 .logo{
     display: flex;
     gap: 40px;
-    font-size: 50px;
+    font-size: 40px;
     width: 500px;
-    font-weight: 500px;
+    font-weight:bolder;
+    align-items: center;
     
  
 }
@@ -47,28 +48,76 @@ a{
 
 .content{
     display: flex;
+    
     justify-content: center;
     align-items: center;
+    margin: 250px;
+    margin-top: 150px;
 }
 
 
 .section1{
     display: flex;
-    padding: 30px 100px;
  
-}
-/* 
-.left-info{
-    max-width: 300px;
+   
 }
 
+.left-info{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.text1{
+   
+    font-size:60px ;
+}
+
+.text2{
+    font-size: 40px;
+    
+}
 
 .section1 img{
-    border-radius: 5%;
-} */
-/* .section1{
-  gap: 100px;
-} */
+    border-radius: 3%;
+}
+.section1{
+  gap: 70px;
+}
+
+button
+{
+    background-color:rgba(99, 86, 50, 0.767);;
+    font-size:30px ;
+    color:  rgb(226, 212, 182);
+    border-radius: 10px;
+    padding: 5px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: rgba(236, 234, 231, 0)  ;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .footer{
